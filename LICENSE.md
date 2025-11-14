@@ -1,8 +1,8 @@
 tradeblock Terraform Modules - Terms and conditions
 
-1.  **Preamble:** This Agreement, signed on Jan 25, 2018 (hereinafter:
+1.  **Preamble:** This Agreement upon use (hereinafter:
     Effective Date) governs the relationship between Client, a Business
-    Entity, (hereinafter: Licensee) and tradeblock HQ LLC, a duly registered
+    Entity, (hereinafter: Licensee) and Spry HQ LLC, a duly registered
     company in whose principal place of business is C/O WeWork ~ 85
     Broad Street, New York, NY 10004 (hereinafter: Licensor). This
     Agreement sets the terms, rights, restrictions and obligations on
@@ -16,7 +16,7 @@ tradeblock Terraform Modules - Terms and conditions
     restrictions set forth in 3rd party software used while
     running Software.
 
-    1.  **Limited:** Licensee may use Software for the purpose of:
+    1.  **Limited:** Licensee may use Software for the purpose of private use and with consideration for the licensing term of $15000 per quarter:
 
         1.  Running Software on Licensee’s Website\[s\] and Server\[s\];
 
@@ -67,6 +67,8 @@ tradeblock Terraform Modules - Terms and conditions
 
     5.  Licensee otherwise entered into any arrangement which caused
         Licensor to be unable to enforce his rights under this License.
+
+    6. Use without payment will not be accepted.
 
 4.  **Payment:** In consideration of the License granted under clause 2,
     Licensee shall pay Licensor a fee, via Credit-Card, PayPal or any
