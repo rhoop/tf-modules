@@ -1,0 +1,14 @@
+variable "aws_region" {}
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
+variable "env" {}
+variable "prod_cidr" {}
+variable "prod_connection_id" {}
+variable "uat_cidr" {}
+variable "uat_connection_id" {}
+variable "stage_cidr" {}
+variable "stage_connection_id" {}
+variable "dev_cidr" {}
+variable "dev_connection_id" {}
+variable "s3_bucket_prefix" {}
+variable "s3_bucket_region" {}
